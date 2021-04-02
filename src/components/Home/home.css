@@ -1,0 +1,9 @@
+.homePgStyle{
+   margin-left: 200px;
+   margin-top: 50px;
+}
+@media screen and (min-width: 480px){
+    .homePgStyle{
+        margin-left: 10px;
+    }
+}
